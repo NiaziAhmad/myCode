@@ -1,0 +1,5 @@
+- case:
+    &id001         +case: &id001
+      input: |         +  input: |
+      output: |         +  output: |
+        ^Hello, [a-zA-Z ]+$
